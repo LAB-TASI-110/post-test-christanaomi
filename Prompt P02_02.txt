@@ -1,0 +1,8 @@
+tolong buatkan saya kode dengan bahasa pemrograman c dengan format C99 dan menggunakan library stdio.h yang dimana menggunakan aplikasi vscode ddan di eksekusi menggunakan windows 11 dalam memberikan kode tidak usah membuat batasan dalam penejlasan maupun kode terus juga gunakan fungsi pada progra tersebut lalu juga kerjakan selayaknya kamu seorang mahasiswa semester 2 prodi sistem informasi. dengan soal sebagai berikut : Data stok barang disimpan dalam sebuah rak gudang yang tersusun rapi. Perhatikan pola penyimpanan pada gambar di bawah ini untuk memahami bagaimana kelompok barang dipisahkan. Input: 
+
+Jumlah total data (N).
+Deret stok (s1, s2, ..., sN).
+Kode kategori barang.
+
+
+Tugas Buatlah program yang mampu menentukan total stok hanya untuk kategori barang yang diminta. buat di dalam progra itu kita mencari pola sesuai dengan yang ada di kertas

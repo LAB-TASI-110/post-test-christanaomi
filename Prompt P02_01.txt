@@ -1,0 +1,9 @@
+PROMPT 1 : tolong buatkan saya kode dengan bahasa pemrograman c dengan format C99 dan 
+menggunakan library stdio.h yang dimana menggunakan aplikasi vscode ddan di eksekusi 
+menggunakan windows 11 dalam memberikan kode tidak usah membuat batasan dalam penejlasan maupun kode terus juga gunakan fungsi pada progra tersebut lalu juga kerjakan selayaknya kamu seorang mahasiswa semester 2 prodi sistem informasi. dengan soal sebagai berikut yang dimana ada jasa pengiriman dengan harga pengiriman seperti pada yang ada di gambar , terus juga ada promo khusus lebaran dengan beberapa syarat 
+yaitu jika berat lebih dari 10 kg maka akan mendapat diskon 10 % dan juga pengiriman ke kota 
+diluar pulau mendapat asuransi gratis. terus ada 2 orang yaitu ucok dan butet mereka
+ ingin mengirim barang namun terdapat perbedaan berat paket yang ingin mereka kirim seperti
+yang ada di gambar yang ada timbangannya . Petugas Del-Express kemudian menjelaskan bahwa
+ sistem pengiriman mereka bekerja secara otomatis. Petugas hanya perlu memasukkan kode kota tujuan serta berat paket milik Butet, dan sistem akan menghitung seluruh biaya pengiriman termasuk berat paket milik Ucok. dan sistem menggunakan kode untuk kota tujuan yaitu medan [MDN], balige [BLG], jakarta [JKT], surabaya [SBY]. dengan contoh input seperti ini MDN 5 JKT 3 BLG 4 END
+PTOMPT 2 :buat ouputnya itu kaya tampilan stuck belanja aja
